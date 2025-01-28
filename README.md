@@ -1,6 +1,6 @@
 # ecomm-mfe
 
-Micro frontend setup with React, Webpack, Babel, and Webpack Dev Server.
+Micro frontend setup with React, Webpack Monorepo.
 
 ## Setup
 
