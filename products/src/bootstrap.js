@@ -3,7 +3,7 @@ import { faker } from "@faker-js/faker";
 const mount = (el) => {
   let products = "";
 
-  for (let i = 0; i < 3; i++) {
+  for (let i = 0; i < 5; i++) {
     products += `<div>${faker.commerce.productName()}</div>`;
   }
   el.innerHTML = products;
