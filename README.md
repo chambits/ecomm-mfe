@@ -1,4 +1,4 @@
-# ecomm-mfe
+# webpack-mfe-monorepo
 
 Micro-frontend monorepo architecture using React and Webpack Module Federation
 
