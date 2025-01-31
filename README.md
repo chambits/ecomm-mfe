@@ -1,6 +1,6 @@
 # webpack-mfe-monorepo
 
-Micro-frontend monorepo architecture using React and Webpack Module Federation
+Micro-frontend architecture using React and Webpack Module Federation
 
 ## Setup
 

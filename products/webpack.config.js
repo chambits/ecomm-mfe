@@ -16,7 +16,7 @@ module.exports = {
       exposes: {
         "./ProductsIndex": "./src/bootstrap.js",
       },
-      shared: ["@faker-js/faker"],
+      shared: ["@faker-js/faker", "react", "react-dom"],
     }),
   ],
 };
