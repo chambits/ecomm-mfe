@@ -1,6 +1,6 @@
 # ecomm-mfe
 
-Micro frontend Monorepo setup with React, Webpack.
+Micro-frontend monorepo architecture using React and Webpack
 
 ## Setup
 
