@@ -8,7 +8,7 @@ Micro-frontend architecture using React and Webpack Module Federation
 2. Run `npm install` in each folder
 3. Run `npm run start` in each folder
 
-open port localhost:3000 in browser and you should see the main page
+open port localhost:8080 in browser and you should see the main page
 
 ## Notes
 
